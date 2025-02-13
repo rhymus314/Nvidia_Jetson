@@ -1,1 +1,4 @@
 # Nvidia_Jetson
+
+JETSON ORIN Nano 8GB
+JETSON ORIN NX 16GB
